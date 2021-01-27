@@ -1,0 +1,288 @@
+[{
+    "name": "Gelegenheidsgedichten",
+    "url": "https://www.kb.nl/bronnen-zoekwijzers/databanken-mede-gemaakt-door-de-kb/gelegenheidsgedichten-tot-1800-in-nederland",
+    "description": "Gelegenheidsgedichten",
+    "outgoinglinks": ["NTA", "Wikidata", "Ecartico", "STCN", "STCN Printers", "SAA Ondertrouwregisters", "SAA Doopregisters", "SAA Begraafregisters", "SAA Notariële Archieven"],
+    "tags": [
+      "books",
+      "events",
+      "persons"
+    ]
+  },
+  {
+    "name": "NTA",
+    "url": "http://data.bibliotheken.nl/id/dataset/persons",
+    "description": "Nederlandse Theaurus van Auteursnamen",
+    "outgoinglinks": [
+      "VIAF",
+      "Wikidata",
+      "DBNL"
+    ],
+    "tags": [
+      "persons"
+    ]
+  },
+  {
+    "name": "STCN",
+    "url": "http://data.bibliotheken.nl/id/dataset/stcn",
+    "description": "Short Title Catalogue of the Netherlands",
+    "outgoinglinks": [
+      "NTA"
+    ],
+    "tags": [
+      "books"
+    ]
+  },
+  {
+    "name": "DBNL Auteurs",
+    "url": "http://data.bibliotheken.nl/id/dataset/dbnla",
+    "description": "Thesaurus Auteurs DBNL",
+    "outgoinglinks": [
+      "NTA"
+    ],
+    "tags": [
+      "books",
+      "persons"
+    ]
+  },
+  {
+    "name": "STCN Printers",
+    "url": "http://data.bibliotheken.nl/id/dataset/stcn",
+    "description": "Short Title Catalogue of the Netherlands (Publishers thesaurus)",
+    "outgoinglinks": [],
+    "tags": [
+      "persons"
+    ]
+  },
+  {
+    "name": "Wikidata",
+    "url": "https://www.wikidata.org/",
+    "description": "Data on almost anything and a hub to data elsewhere",
+    "outgoinglinks": [
+      "RKD Artists",
+      "VIAF",
+      "NTA",
+      "Ecartico",
+      "Biografisch Portaal"
+    ],
+    "tags": [
+      "persons",
+      "events",
+      "heritage objects"
+    ]
+  },
+  {
+    "name": "OnStage",
+    "url": "http://www.vondel.humanities.uva.nl/onstage/",
+    "description": "The repertoire, performances, popularity and revenues of the cultural program in Amsterdam’s public theatre during the period 1637 - 1772.",
+    "outgoinglinks": [
+      "Ecartico",
+      "Wikidata",
+      "STCN"
+    ],
+    "tags": [
+      "persons",
+      "plays"
+    ]
+  },
+  {
+    "name": "Ecartico",
+    "url": "http://www.vondel.humanities.uva.nl/ecartico/",
+    "description": "Over 30.000 artists and their connections in 17th-century Amsterdam",
+    "outgoinglinks": [
+      "Wikidata",
+      "NTA",
+      "Rijksmuseum",
+      "STCN",
+      "RKD Artists",
+      "VIAF",
+      "DBNL Auteurs"
+    ],
+    "tags": [
+      "persons"
+    ]
+  },
+  {
+    "name": "RKD Artists",
+    "url": "https://rkd.nl/",
+    "description": "Rijksbureau voor Kunsthistorische Documentatie, data on artists born, working or collected in The Netherlands",
+    "outgoinglinks": [],
+    "tags": [
+      "persons"
+    ]
+  },
+  {
+    "name": "Adamlink",
+    "url": "https://adamlink.nl/",
+    "description": "Street Gazetteer and reference data on buildings, persons and districts",
+    "outgoinglinks": [
+      "Ecartico",
+      "RKD Artists",
+      "Wikidata",
+      "AAT",
+      "Rijksmuseum"
+    ],
+    "tags": [
+      "geography",
+      "persons"
+    ]
+  },
+  {
+    "name": "GeoNames",
+    "url": "https://www.geonames.org/",
+    "description": "Geographical names around the globe and elsewhere",
+    "outgoinglinks": [],
+    "tags": [
+      "geography"
+    ]
+  },
+  {
+    "name": "AAT",
+    "url": "http://vocab.getty.edu/aat/",
+    "description": "Getty's Art & Architecture Thesaurus describes museum objects, buildings and more",
+    "outgoinglinks": [],
+    "tags": [
+      "vocabulary"
+    ]
+  },
+  {
+    "name": "Amsterdam Museum",
+    "url": "https://www.amsterdammuseum.nl/open-data",
+    "description": "Over 80.000 objects on Amsterdam history, collected from the 16th-century onwards.",
+    "outgoinglinks": [
+      "Wikidata",
+      "Adamlink"
+    ],
+    "tags": [
+      "heritage objects"
+    ]
+  },
+  {
+    "name": "Rijksmuseum",
+    "url": "https://www.rijksmuseum.nl/nl/api",
+    "description": "Artworks and lots of objects related to the history of Amsterdam",
+    "outgoinglinks": [
+      "AAT",
+      "Iconclass"
+    ],
+    "tags": [
+      "persons",
+      "heritage objects"
+    ]
+  },
+  {
+    "name": "Iconclass",
+    "url": "http://www.iconclass.nl",
+    "description": "Iconclass is a classification system designed for art and iconography",
+    "outgoinglinks": [],
+    "tags": [
+      "vocabulary"
+    ]
+  },
+  {
+    "name": "Amsterdam Corporate Group Portraits",
+    "url": "",
+    "description": "Dataset based on the dissertation of Norbert Middelkoop: 'Schutters, gildebroeders, regenten en regentessen: Het Amsterdamse corporatiestuk 1525-1850' (2019).",
+    "outgoinglinks": ["Rijksmuseum", "Amsterdam Museum", "Wikidata", "Repertorium van ambtsdragers"],
+    "tags": [
+      "persons",
+      "portraits"
+    ]
+  },
+  {
+    "name": "Repertorium van ambtsdragers",
+    "url": "http://resources.huygens.knaw.nl/repertoriumambtsdragersambtenaren1428-1861",
+    "description": "The Compendium of office holders and civil servants 1428-1861 is a searchable database, accessible via the Internet, that contains information about the highest-ranking officeholders and members of the most important institutions of a representative, administrative and judicial nature on present-day Dutch territory.",
+    "outgoinglinks": ["Biografisch Portaal"],
+    "tags": [
+      "persons"
+    ]
+  },
+  {
+    "name": "Biografisch Portaal",
+    "url": "http://resources.huygens.knaw.nl/repertoriumambtsdragersambtenaren1428-1861",
+    "description": "The Compendium of office holders and civil servants 1428-1861 is a searchable database, accessible via the Internet, that contains information about the highest-ranking officeholders and members of the most important institutions of a representative, administrative and judicial nature on present-day Dutch territory.",
+    "outgoinglinks": [],
+    "tags": [
+      "persons"
+    ]
+  },
+  {
+    "name": "SAA Ondertrouwregisters",
+    "url": "https://archief.amsterdam/archief/5001/",
+    "description": "",
+    "outgoinglinks": [],
+    "tags": [
+      "deeds",
+      "persons"
+    ]
+  },
+  {
+    "name": "SAA Doopregisters",
+    "url": "https://archief.amsterdam/archief/5001/",
+    "description": "",
+    "outgoinglinks": [],
+    "tags": [
+      "deeds",
+      "persons"
+    ]
+  },
+  {
+    "name": "SAA Begraafregisters",
+    "url": "https://archief.amsterdam/archief/5001/",
+    "description": "",
+    "outgoinglinks": [],
+    "tags": [
+      "deeds",
+      "persons"
+    ]
+  },
+  {
+    "name": "SAA Notariële Archieven",
+    "url": "https://archief.amsterdam/archief/5075/",
+    "description": "",
+    "outgoinglinks": [],
+    "tags": [
+      "deeds",
+      "persons",
+      "inventories"
+    ]
+  },
+  {
+    "name": "Notarissennetwerk",
+    "url": "https://notarissennetwerk.nl/",
+    "description": "",
+    "outgoinglinks": ["SAA Notariële Archieven"],
+    "tags": [
+      "persons"
+    ]
+  },
+  {
+    "name": "Getty Provenance Index (Montias)",
+    "url": "http://www.getty.edu/research/tools/provenance/search.html",
+    "description": "",
+    "outgoinglinks": ["SAA Notariële Archieven"],
+    "tags": [
+      "inventories"
+    ]
+  },
+  {
+    "name": "Frick Collection (Montias)",
+    "url": "https://research.frick.org/montias",
+    "description": "",
+    "outgoinglinks": ["SAA Notariële Archieven"],
+    "tags": [
+      "inventories"
+    ]
+  },
+  {
+    "name": "Het Schrijverskabinet",
+    "url": "http://www.schrijverskabinet.nl/",
+    "description": "",
+    "outgoinglinks": ["DBNL Auteurs"],
+    "tags": [
+      "persons",
+      "portraits"
+    ]
+  }
+]
